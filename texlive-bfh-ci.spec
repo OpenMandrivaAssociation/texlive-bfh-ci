@@ -1,6 +1,6 @@
 Name:		texlive-bfh-ci
 Version:	62951
-Release:	1
+Release:	2
 Summary:	Corporate Design for Bern University of Applied Sciences
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bfh-ci
