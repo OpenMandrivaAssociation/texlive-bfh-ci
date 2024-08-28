@@ -1,5 +1,5 @@
 Name:		texlive-bfh-ci
-Version:	68828
+Version:	70623
 Release:	1
 Summary:	Corporate Design for Bern University of Applied Sciences
 Group:		Publishing
