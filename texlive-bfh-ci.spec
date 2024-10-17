@@ -3,7 +3,7 @@ Version:	70623
 Release:	1
 Summary:	Corporate Design for Bern University of Applied Sciences
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bfh-ci
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bfh-ci
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bfh-ci.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bfh-ci.doc.r%{version}.tar.xz
